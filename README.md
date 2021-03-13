@@ -32,7 +32,7 @@ Para compilar el código con maven solo debemos correr el siguiente codigo en el
 Si queremos ejecutar el programa de manera local, debemos compilar el proyecto con maven y posteriormente ir a nuestro IDE y ejecutar el código fuente.  
 Una vez el programa este ejecutandose podemos ir a nuestro navegador de preferencia y escribir en la url la siguiente dirección:  
 ~~~
-`http://localhost:4567/index.html`  
+http://localhost:4567/index.html  
 ~~~
 El resultado debe ser el siguiente:  
 ![servicioLocal](https://github.com/JoseGutierrezMairn/AREP-Lab5/blob/master/img/servicioLocal.PNG?raw=true)  
