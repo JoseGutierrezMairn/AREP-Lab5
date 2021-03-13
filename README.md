@@ -55,7 +55,7 @@ Hacer clic en el botón "Save" y recargar la página.
 ![AWSService](https://github.com/JoseGutierrezMairn/AREP-Lab5/blob/master/img/messageSaved.PNG?raw=true)  
 
 # CircleCI  
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/Lab3-Arep)  
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/AREP-Lab5)  
 
 
 # Desarrollo  
