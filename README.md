@@ -19,7 +19,9 @@ Debemos tener los siguientes programas instalados o cuentas para poder hacer uso
 Para descargar el proyecto realizaremos los siguientes pasos desde el **Simbolo del sistema** o **Command prompt**:  
 1. Nos dirigimos a la ubicación donde queremos descargar el proyecto desde el simbolo del sistema.  
 2. Escribimos el siguiente comando para realizar la descarga:  
-`git clone https://github.com/JoseGutierrezMairn/AREP-Lab5.git`
+~~~
+git clone https://github.com/JoseGutierrezMairn/AREP-Lab5.git
+~~~
 3. Esperamos a que el simbolo de sistema nos diga que ya se realizó la descarga  
 4. El proyecto ya se encuentra en nuestros computadores y está listo para ser editado o probado.  
   
@@ -29,7 +31,9 @@ Para compilar el código con maven solo debemos correr el siguiente codigo en el
 
 Si queremos ejecutar el programa de manera local, debemos compilar el proyecto con maven y posteriormente ir a nuestro IDE y ejecutar el código fuente.  
 Una vez el programa este ejecutandose podemos ir a nuestro navegador de preferencia y escribir en la url la siguiente dirección:  
+~~~
 `http://localhost:4567/index.html`  
+~~~
 El resultado debe ser el siguiente:  
 ![servicioLocal](https://github.com/JoseGutierrezMairn/AREP-Lab5/blob/master/img/servicioLocal.PNG?raw=true)  
 
