@@ -43,8 +43,8 @@ y que en este servicio si funciona el uso de la base de datos.
 * 34000
 
 ## Links AWS Service 
-[Aws Service Port:8087](http://ec2-3-85-141-52.compute-1.amazonaws.com:8087/)  
-[Aws Service Port:34000](https://powerful-stream-65068.herokuapp.com/)  
+* [Aws Service Port: 8087](http://ec2-3-85-141-52.compute-1.amazonaws.com:8087/)  
+* [Aws Service Port: 34000](https://powerful-stream-65068.herokuapp.com/)  
 ### ¿Como funciona?
 Para hacer uso del servicio lo primero es entrar a uno de los links del servicio de aws educate el resultado será igual que cuando se corre el codigo  
 de manera local.  
